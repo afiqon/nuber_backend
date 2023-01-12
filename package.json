@@ -28,7 +28,7 @@
   "dependencies": {
     "@types/bcrypt": "2.0.0",
     "bcrypt": "2.0.1",
-    "class-validator": "0.8.5",
+    "class-validator": "0.14.0",
     "cors": "2.8.4",
     "dotenv": "6.0.0",
     "graphql-tools": "3.0.4",
